@@ -1,10 +1,7 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Denilson!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Denilson!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&weight=500&size=36&pause=1000&color=F724DA&background=ADCDAD00&random=false&width=435&lines=%3C+hello+my+name+is+laryssa%3E)](https://git.io/typing-svg)
 
 
 - In 2020, I started my systems analysis and development course. Since then, I dedicated myself to the world of programming, with the aim of improving my acquired skills and contributing to the development of projects that make a difference in current global technology. My professional goals are to work as a web and mobile developer.
