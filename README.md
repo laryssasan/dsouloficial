@@ -10,7 +10,7 @@
 - 💻 I'm not a developer yet but I want to be
 - ❤ I am passionate about developing projects
 - 🔭 an eternal apprentice
-
+_  ✌ How to reach me instagram: @cf.lala.__
 ---- 
 
 </br>
